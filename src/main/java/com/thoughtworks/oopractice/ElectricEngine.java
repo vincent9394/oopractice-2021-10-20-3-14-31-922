@@ -1,4 +1,7 @@
 package com.thoughtworks.oopractice;
 
-public class ElectricEngine {
+public class ElectricEngine extends Engine{
+    public ElectricEngine() {
+        super(25);
+    }
 }

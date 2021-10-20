@@ -8,6 +8,6 @@ public abstract class Engine {
     }
 
     public int getSpeed(){
-        return 30;
+        return speed;
     }
 }

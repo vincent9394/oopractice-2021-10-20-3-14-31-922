@@ -10,6 +10,6 @@ public class Vehicle {
     }
 
     public void speedUp (){
-        System.out.printf("%s : speed up to %d km/h", name, speed);
+        System.out.printf("%s : speed up to %d km/h \n", name, speed);
     }
 }
